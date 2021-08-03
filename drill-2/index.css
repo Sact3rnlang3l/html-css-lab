@@ -1,0 +1,84 @@
+#upper1{
+    box-sizing: border-box;
+    border-color: black;
+    border-style: solid;
+    border-width: 4px;
+    height: 30vh;
+    width: 98vw;
+    position:absolute;
+    padding: 30px;
+    top:1vh;
+    left:1vw;
+}
+#purpur{
+    box-sizing: content-box;
+    background-color:rgba(138,43,226,255) ; 
+    height: 18vh;
+    width: 6vh;
+    top: 10vh;
+    left: 2.3vw;
+    position:absolute
+
+}
+#green{
+background-color: rgba(34,139,34,255);
+    box-sizing: content-box;
+    height: 25vh;
+    width: 55vh;
+    top: 3vh;
+    left: 10vw;
+    position:absolute;
+}
+#circle{
+    background-color: rgba(135,206,235,255);
+    position:absolute;
+    border-radius: 100vh;
+    height: 25vh;
+    width: 25vh;
+    top: 3vh;
+    left: 50vw;
+    overflow: hidden;
+}
+#dotbox{
+    position: absolute;
+    box-sizing: border-box;
+    border-color: black;
+    border-style: dotted;
+    border-width: 4px;
+    height: 30vh;
+    width: 98vw;
+    padding: 30px;
+    top:34vh;
+    left:1vw;
+}
+#Cream{
+    position: absolute;
+    box-sizing: content-box;
+    height: 20vh;
+    width: 90vw;
+    top:39vh;
+    left:5vw;
+    background-color:rgba(255,250,205,255);
+    box-shadow: 10px 10px 5px rgb(109, 109, 109);
+}
+#textbox{
+    position:absolute;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: rgb(151, 151, 151) ;
+    border-width: 1px;
+    height: 30vh;
+    width: 35vw;
+    top: 66vh;
+    left:32.5vw;
+    box-shadow: 7px 7px 3.5px rgb(151, 151, 151) ;
+}
+#h1{
+    bottom: 12vh;
+    text-align: center;
+    color: rgba(34,20,129,255);
+    left: 45vw;
+    position:absolute;
+    font: Garamond;
+    letter-spacing: 8px;
+}
