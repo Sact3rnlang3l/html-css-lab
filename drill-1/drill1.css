@@ -1,0 +1,34 @@
+#banner {
+    position: absolute;
+    top:0;
+    left:0;
+    box-sizing:content-box;
+    width:100%;
+    height:20vh;
+    background-color:rgba(68,68,68,255);
+}
+#footer {
+    box-sizing: border-box;
+    height: 10vh;
+    position: absolute;
+    bottom:0;
+    left:10vw;
+    width:80vw;
+    background-color:rgba(68,68,68,255) ;
+}
+#marginL {
+    height: 80vh;
+    width: 10vw;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(216,216,216,255);
+}
+#marginR {
+    height: 80vh;
+    width: 10vw;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(216,216,216,255);
+}
